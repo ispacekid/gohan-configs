@@ -1,5 +1,9 @@
 # Themes for Gohan 2
 
+**注意**：本项目已不再维护，可以移步作者个人主页 [https://spacekid.me/](https://spacekid.me/) 了解我的其他项目。谢谢关注！
+
+**Notice**: This project is no longer maintained. Check my homepage [https://spacekid.me/](https://spacekid.me/) for more projects.
+
 ## Introduction
 
 10 themes designed for Gohan 2, An iOS app for fanfou.com. Gohan 2 is available on the [App Store](https://itunes.apple.com/cn/app/yu-fan-2/id1099718738?mt=8).
